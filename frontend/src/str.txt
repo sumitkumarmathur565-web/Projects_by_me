@@ -1,0 +1,17 @@
+src/
+│
+├── components/
+│   ├── Sidebar.jsx
+│   ├── UserList.jsx
+│   ├── ChatWindow.jsx
+│   ├── Message.jsx
+│   └── MessageInput.jsx
+│
+├── pages/
+│   └── Chat.jsx
+│
+├── services/
+│   └── api.js
+│
+├── App.jsx
+└── main.jsx
